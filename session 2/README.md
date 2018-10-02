@@ -1,12 +1,6 @@
-Run the code like this:
+Use face_detect.py for image based detection
+face_detect_spyder.py for video based detection
 
-*python face_detect.py abba.png*
+HAAR cascades are saved as XML files, you can download and try with other cascades available online 
 
-If you want to understand how the code works, the details are here:
-
-https://realpython.com/blog/python/face-recognition-with-python/
-
-
-Update: Now supports OpenCV3. This change has been made by furetosan ( https://github.com/furetosan) and tested on Linux.
-
-To run the OpenCV3 version, run facedetect_cv3.py.
+create an issue if something doesnt work :) 
